@@ -66,7 +66,7 @@ The code for the weighted ranking is shown here as MovieRankWeight.py.
 
 I ran this 3 times and we chose our favorite from there.
 
-This was our final order:
+### This was our final order:
 
   Week 1: District 9  
   Week 2: Goodfellas  
@@ -124,7 +124,7 @@ The code for this is in MovieClubRating.py.
 
 These are the results:
 
-Closest Raters 
+### Closest Raters 
 
   1. Givnos and Mohinos with an average distance of 1.89 per movie
   2. Joaquinos and Marquinos with an average distance of 1.98 per movie
@@ -142,7 +142,7 @@ Closest Raters
   14. Jaminos and Mohinos with an average distance of 2.59 per movie
   15. Jaminos and Jerminos with an average distance of 2.91 per movie
 
- Average Group Distance 
+ ### Average Group Distance 
 
   1. Givnos with an average distance of 2.1 from the group
   2. Marquinos with an average distance of 2.16 from the group
