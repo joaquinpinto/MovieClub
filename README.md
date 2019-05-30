@@ -71,41 +71,41 @@ This was our final order:
   Week 1: District 9  
   Week 2: Goodfellas  
   Week 3: Coco  
-  Week 4: City of God 
+  Week 4: City of God  
   Week 5: Moonrise Kingdom  
-  Week 6: Blazing Saddles 
+  Week 6: Blazing Saddles  
   Week 7: Usual Suspects  
-  Week 8: Hoop Dreams 
+  Week 8: Hoop Dreams  
   Week 9: Dazed and Confused  
   Week 10: Shaun of the Dead  
   Week 11: Gattaca  
   Week 12: Scott Pilgrim  
-  Week 13: Escape from New York 
-  Week 14: Old School 
+  Week 13: Escape from New York  
+  Week 14: Old School  
   Week 15: Set it Up  
-  Week 16: 12 Monkeys 
-  Week 17: Annihilation 
-  Week 18: The Fight Club 
+  Week 16: 12 Monkeys  
+  Week 17: Annihilation  
+  Week 18: The Fight Club  
   Week 19: Incredibles 2  
   Week 20: Halloween  
-  Week 21: Warriors 
-  Week 22: Scream 
-  Week 23: Hot Fuzz 
-  Week 24: The Jerk 
-  Week 25: Forrest Gump 
+  Week 21: Warriors  
+  Week 22: Scream  
+  Week 23: Hot Fuzz  
+  Week 24: The Jerk  
+  Week 25: Forrest Gump  
   Week 26: Airplane!  
-  Week 27: Basic Instinct 
-  Week 28: Reservoir Dogs 
+  Week 27: Basic Instinct  
+  Week 28: Reservoir Dogs  
   Week 29: Crazy Rich Asians  
   Week 30: Saw  
-  Week 31: Matrix   
+  Week 31: Matrix  
   Week 32: Blade Runner 2049  
   Week 33: In Bruges  
-  Week 34: Shawshank Redemption   
-  Week 35: Zodiac   
+  Week 34: Shawshank Redemption  
+  Week 35: Zodiac  
   Week 36: Ghost in the Shell (1995)  
-  Week 37: Accident Man   
-  Week 38: Return of the Dragon   
+  Week 37: Accident Man  
+  Week 38: Return of the Dragon  
   Week 39: Gangs Of New York  
   Week 40: Taxi Driver  
   Week 41: Bill and Ted  
@@ -113,8 +113,8 @@ This was our final order:
   Week 43: Apocalypse Now  
   Week 44: American Gangster  
   Week 45: Donnie Darko  
-  Week 46: Bourne   
-  Week 47: The Naked Gun   
+  Week 46: Bourne  
+  Week 47: The Naked Gun  
   Week 48: Dredd  
   Week 49: Cool Hand Luke  
 
