@@ -31,7 +31,9 @@ We didn't, it was very tedious.
 However, I added a little game to it.
 
 Each person has 2 Power-Ups, the 1-Card and the 10-Card.
+
   1-Card: This means you really don't want to watch this film, it functions as an extra -5 to the movie's score.
+  
   10-Card: This means that the film is your top choice, it functions as an extra +5 to the movie's score.
 
 The Google Sheet would mark that person't column red if they had 2 or more 1 or 10 ratings.
@@ -44,12 +46,15 @@ I'm getting there, give me a second!
 After getting the ratings from my friends I sought to balance each person's ratings, so that we all had the same say in the movie selection. 
 
 This was performed by finding the Z-Scores of each rating for each Rater:
+  
   Z-Score = (Score - Rater's AVG Score)/Rater's SD.
 
 I then took the average Z-score for each movie and normalized it back to a 1-10 scale with 5 being the mid-point:
+  
   5 + (Avg Z-Score * 10)/(Max AVG Z - Min AVG Z)
   
 Afterwards I added/subtracted the power ups and rounded to two-digits:
+  
   Blazing Saddle Adjusted Score = 5.04 + 5/6 = 5.87
 
 This was all completed directly on the Google Sheet so as to be as open as possible, I have recreated this in a Jupyter Notebook.
@@ -66,52 +71,100 @@ I ran this 3 times and we chose our favorite from there.
 
 This was our final order:
 
-Week 1: District 9
-Week 2: Goodfellas
-Week 3: Coco
-Week 4: City of God
-Week 5: Moonrise Kingdom
-Week 6: Blazing Saddles
-Week 7: Usual Suspects
-Week 8: Hoop Dreams
-Week 9: Dazed and Confused
-Week 10: Shaun of the Dead
-Week 11: Gattaca
-Week 12: Scott Pilgrim
-Week 13: Escape from New York
-Week 14: Old School
-Week 15: Set it Up
-Week 16: 12 Monkeys
-Week 17: Annihilation
-Week 18: The Fight Club
-Week 19: Incredibles 2
-Week 20: Halloween
-Week 21: Warriors
-Week 22: Scream
-Week 23: Hot Fuzz
-Week 24: The Jerk
-Week 25: Forrest Gump
-Week 26: Airplane!
-Week 27: Basic Instinct
-Week 28: Reservoir Dogs
-Week 29: Crazy Rich Asians
-Week 30: Saw
-Week 31: Matrix
-Week 32: Blade Runner 2049
-Week 33: In Bruges
-Week 34: Shawshank Redemption
-Week 35: Zodiac
-Week 36: Ghost in the Shell (1995)
-Week 37: Accident Man
-Week 38: Return of the Dragon
-Week 39: Gangs Of New York
-Week 40: Taxi Driver
-Week 41: Bill and Ted
-Week 42: Easy A
-Week 43: Apocalypse Now
-Week 44: American Gangster
-Week 45: Donnie Darko
-Week 46: Bourne
-Week 47: The Naked Gun
-Week 48: Dredd
-Week 49: Cool Hand Luke
+  Week 1: District 9
+  
+  Week 2: Goodfellas
+  
+  Week 3: Coco
+  
+  Week 4: City of God
+
+  Week 5: Moonrise Kingdom
+
+  Week 6: Blazing Saddles
+
+  Week 7: Usual Suspects
+
+  Week 8: Hoop Dreams
+
+  Week 9: Dazed and Confused
+
+  Week 10: Shaun of the Dead
+
+  Week 11: Gattaca
+
+  Week 12: Scott Pilgrim
+
+  Week 13: Escape from New York
+
+  Week 14: Old School
+  
+  Week 15: Set it Up
+
+  Week 16: 12 Monkeys
+
+  Week 17: Annihilation
+  
+  Week 18: The Fight Club
+  
+  Week 19: Incredibles 2
+  
+  Week 20: Halloween
+  
+  Week 21: Warriors
+
+  Week 22: Scream
+  
+  Week 23: Hot Fuzz
+
+  Week 24: The Jerk
+  
+  Week 25: Forrest Gump
+  
+  Week 26: Airplane!
+  
+  Week 27: Basic Instinct
+  
+  Week 28: Reservoir Dogs
+  
+  Week 29: Crazy Rich Asians
+  
+  Week 30: Saw
+  
+  Week 31: Matrix
+  
+  Week 32: Blade Runner 2049
+  
+  Week 33: In Bruges
+  
+  Week 34: Shawshank Redemption
+  
+  Week 35: Zodiac
+  
+  Week 36: Ghost in the Shell (1995)
+  
+  Week 37: Accident Man
+  
+  Week 38: Return of the Dragon
+  
+  Week 39: Gangs Of New York
+  
+  Week 40: Taxi Driver
+  
+  Week 41: Bill and Ted
+  
+  Week 42: Easy A
+  
+  Week 43: Apocalypse Now
+  
+  Week 44: American Gangster
+  
+  Week 45: Donnie Darko
+  
+  Week 46: Bourne
+  
+  Week 47: The Naked Gun
+  
+  Week 48: Dredd
+  
+  Week 49: Cool Hand Luke
