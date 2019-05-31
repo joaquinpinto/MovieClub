@@ -5,11 +5,11 @@ This is a project I worked on using data I received from my friends.
 
 ## What's In Here:
 
-  MovieRatings.csv - Movie rating data from friends, Header = Movie, and friends names.  
-  AdjustedMovieAverage.csv - Standardized scores and Normalized average scores for each movie.  
-  MCRatingAdj.inpyb - Jupyter Notebook code for creating Adjusted Score sheet from Movie Rating sheet.  
-  MovieClubRating.py - Python Code for comparing each person's ratings, results seen below.  
-  MovieRankWeight.py - Python Code for reading in the Adjusted Scores and creating randomized order.  
+  - MovieRatings.csv - Movie rating data from friends, Header = Movie, and friends names.  
+  - AdjustedMovieAverage.csv - Standardized scores and Normalized average scores for each movie.  
+  - MCRatingAdj.inpyb - Jupyter Notebook for creating Adjusted Score sheet from Movie Rating sheet.  
+  - MovieClubRating.py - Python Code for comparing each person's ratings, results below.  
+  - MovieRankWeight.py - Python Code for reading in the Adjusted Scores and creating randomized order.  
 
 ## Who Are My Friends:
 
