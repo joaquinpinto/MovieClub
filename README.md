@@ -3,6 +3,14 @@ Analysis of Movie Ratings For Movie Club
 
 This is a project I worked on using data I received from my friends.
 
+## What's In Here:
+
+  MovieRatings.csv - Movie rating data from friends, Header = Movie, and friends names.  
+  AdjustedMovieAverage.csv - Standardized scores and Normalized average scores for each movie.  
+  MCRatingAdj.inpyb - Jupyter Notebook code for creating Adjusted Score sheet from Movie Rating sheet.  
+  MovieClubRating.py - Python Code for comparing each person's ratings, results seen below.  
+  MovieRankWeight.py - Python Code for reading in the Adjusted Scores and creating randomized order.  
+
 ## Who Are My Friends:
 
 We are a group of 5 friends who met in High School (and 1 person who made his way into the group during college) who are all thoroughly interested in cinema. During High School one of our main weekend hang-outs was at the matinee showing of new films at AMC. Together we endulged ourselves in classics such as The Hunger Games and The Purge for the low price of $5. 
@@ -42,7 +50,7 @@ The Google Sheet would mark that person't column red if they had 2 or more 1 or 
 
 I'm getting there, give me a second!
 
-After getting the ratings from my friends I sought to balance each person's ratings, so that we all had the same say in the movie selection. 
+After getting the ratings from my friends I sought to standardize each person's ratings, so that we all had the same say in the movie selection. 
 
 This was performed by finding the Z-Scores of each rating for each Rater:
   - Z-Score = (Score - Rater's AVG Score)/Rater's SD.   
