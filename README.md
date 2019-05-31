@@ -66,7 +66,7 @@ The code for the weighted ranking is shown here as MovieRankWeight.py.
 
 I ran this 3 times and we chose our favorite from there.
 
-### This was our final order:
+### This was our final order after the randomization:
 
   Week 1: District 9  
   Week 2: Goodfellas  
